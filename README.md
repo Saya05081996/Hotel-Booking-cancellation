@@ -1,2 +1,3 @@
 # Hotel-Booking-cancellation
 Airbnb hotel booking cancellation prediction and analytics
+Every year property owners in Airbnb, OYO, and many more witness hotel booking cancellation after they have been booked. This project throws a light on several factors responsible for the cancellation of the Airbnb properties. Python and its frameworks like numpy, panda, matplotlib, and seaborn have been utilized to perform an end-to-end data analytics. Data preprocessing followed by data transformation and data visualization has been implemented in a single jupyter notebook. Enjoy the journey and try to book your next Airbnb property on your vacation taking insights from the analytics :)
